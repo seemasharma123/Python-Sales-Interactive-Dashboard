@@ -118,19 +118,19 @@ Side-by-side horizontal bar charts showing the performance gap between best and 
 ## 🖼️ Screenshots
 
 ### Executive KPIs + Annual Revenue
-![KPIs](screenshots/kpis.png)
+![KPIs](SS-1.jpeg)
 
 ### Monthly Revenue — All Years Overlaid
-![Monthly](screenshots/monthly_overlay.png)
+![Monthly](SS-2.jpeg)
 
 ### Head-to-Head YoY Comparison
-![YoY](screenshots/yoy_comparison.png)
+![YoY](SS-3.jpeg)
 
 ### Revenue Heatmap
-![Heatmap](screenshots/heatmap.png)
+![Heatmap](SS-4.jpeg)
 
 ### Top 5 vs Bottom 5 Products
-![Top Bottom](screenshots/top_bottom.png)
+![Top Bottom](SS-5.jpeg)
 
 ---
 
