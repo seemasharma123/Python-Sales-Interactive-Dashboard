@@ -138,8 +138,8 @@ Side-by-side horizontal bar charts showing the performance gap between best and 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/sales-intelligence-dashboard.git
-cd sales-intelligence-dashboard
+git clone https://github.com/seemasharma123/Python-Sales-Interactive-Dashboard.git
+cd Python-Sales-Interactive-Dashboard
 ```
 
 ### 2. Install dependencies
@@ -155,6 +155,3 @@ streamlit run dashboard_app.py
 Opens automatically at `http://localhost:8501`
 
 
----
-
-*Built with ❤️ using Python & Streamlit*
